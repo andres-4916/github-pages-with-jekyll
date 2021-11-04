@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Examen del Profe Cupul"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hola profe este es mi examen xD
